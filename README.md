@@ -1,26 +1,26 @@
 # Tenoch-Rosas
-# Hi, I'm Angel 👋
+# Hila, Soy Angel Tenoch Rosas Tellez
 
-🎓 Statistics student
-📊 Interested in Data Science, Econometrics and Machine Learning
-🐍 Learning Python, R and SQL
-📈 Passionate about statistical modeling and Bayesian statistics
+🎓 Estudiante de Actuaria
+📊 Interesado por el analisis de datos, fianciero, machine lerning
+🐍 Paqueteria Office, Python and SQL
+📈 Un apasionado ór la estadistica y el analisis
 
 ## Skills
 
 * Python
-* R
+* Office
 * SQL
-* Regression Models
-* Bayesian Statistics
-* Data Analysis
+* Modelos de Regresion
+* Estadistica
+  Analisis 
 
 ## Projects
 
-* Linear Regression Analysis
-* Bayesian Inference Exercises
-* Poisson Regression Models
+* Regresion lineal analisis
+* Modelos de regresion Poisson, lineal, logistica, etc.
 
 ## Contact
 
 * Email: tenochrosas88@gmail.com
+* Telefono: 5645410678
